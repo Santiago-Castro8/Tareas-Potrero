@@ -1,0 +1,26 @@
+h1{
+    font-family: sans-serif;
+    color: #419907;
+}
+
+h2{
+    color: #0812a7;
+}
+
+h3{
+    color: #0aa5aa;
+}
+
+p{
+    color: #cabb31;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+iframe{
+    width: 500px;
+    height: 300px;
+}
